@@ -1,0 +1,39 @@
+paediatrics:
+mumps 
+measles
+acyanotic  congenital heart diseases
+alports syndrome
+anorexia nervosa
+anorectal malformation
+neonatal sepsis
+neonatal jaundice
+neonatal hypoglycaemia
+hypothermia
+baggy pant appearance
+autistic disorder
+bartter syyndrome
+breast feeding
+breath holding spells
+bronchioloits
+bulimia
+caput succedaneum
+cerebral palsy
+corrected tga
+child abuse
+cleft lip 
+cleft palate
+cold stress
+congenital diapraghmatic hernia
+neonatal seizures
+cryptorchidism
+diaper dermatitis
+digeorge syndrome
+dysplasia of hip
+downs syndromeencephalitis
+enuresis
+hemolytic uremic syndrome
+immunization
+kwashiorkar
+marasmus
+west syndrome
+umblical vessel catheterization

@@ -1,0 +1,174 @@
+Absorption
+Achlorhydria
+Adenomatous Polyposis Coli
+Afferent Loop Syndrome
+Ampulla of Vater
+anal
+Anisakiasis
+Anus 
+Appendiceal 
+Appendicitis
+Appendix
+Balantidiasis
+Biliary Tract
+Bile Ducts 
+Blastocystis
+Blind Loop Syndrome
+Bowel
+Brunner Glands
+Budd-Chiari Syndrome
+Canaliculi
+Carcinoma
+Cardia
+Caroli 
+Cecum, Cecal
+Chilaiditi Syndrome
+Cholangitis
+Cholecystolithiasis
+Choledochal 
+Cholelithiasis
+Cholera Morbus
+Cholestasis 
+Cholestasis
+Chylous Ascites
+Colitis
+Colon
+Colonic 
+Colorectal 
+Coproporphyria
+CREST Syndrome
+Crohn Disease
+Cryptosporidiosis
+Cystic Duct
+Defecation
+Deglutition
+Dentition 
+Dientamoebiasis
+Digest
+Digestion
+Diverticulitis
+Diverticulosis
+Dumping Syndrome
+Duodenal
+Duodenitis
+Duodenogastric
+Duodenum
+Dysentery
+Dyskinesia
+Enteritis
+Enterochromaffin Cells
+Enterocolitis
+Enterocytes
+Esophageal
+Esophagitis
+Esophagogastric
+Esophagus
+Fasciolosis 
+Fecal
+feces
+Fistula
+Gagging
+Gallbladder
+Gardner Syndrome
+Gastric
+Gastrin
+Gastrinoma
+Gastroenteritis
+Gastroesophageal 
+Gastrointestinal
+Gastroparesis
+Giardiasis
+Glucagon
+Glucagonoma
+Goblet Cells
+Hematemesis
+Hemoperitoneum
+Hemorrhoids
+hepatic
+hepatitis
+Hepatobiliary
+Hepatocellular
+Hepatolenticular
+Hepatomegaly
+Hepatopulmonary
+Hepatorenal
+Hirschsprung Disease
+Ileal
+Ileitis
+Ileocecal Valve
+Ileum
+Insulin
+Insulinoma
+Intestinal
+Intestine
+Intussusception
+Islets of Langerhans
+Jejunal 
+Jejunum
+Lactose Intolerance
+Laryngopharyngeal 
+Liver
+Liver Cirrhosis
+Malabsorption 
+Mallory-Weiss Syndrome
+Mastication
+Meckel Diverticulum
+Megacolon
+Melena
+Mesenteric 
+Mirizzi syndrome
+mouth
+Mucosa
+Mucositis
+Neoplasm
+Nesidioblastosis
+Nonpolyposis
+Pancreas
+Pancreatic 
+Paneth Cells
+Parietal Cells
+Parotid glands
+Peptic
+Peristalsis
+Peritoneal 
+Peutz-Jeghers Syndrome
+Pharynx
+Plummer-Vinson Syndrome
+Pneumatosis Cystoides Intestinalis
+Polypeptide
+Porphyria
+Postcholecystectomy
+Postgastrectomy
+Pouchitis
+proctitis
+Proctocolitis
+Protein-Losing Enteropathies
+Pruritus Ani
+Pyloric Antrum, Pylorus
+Rectal 
+Rectum
+Rift Valley Fever
+Saliva
+Salivary
+Salivation
+Sclerosing
+Sigmoid 
+Somatostatin
+Somatostatinoma
+Sphincter of Oddi
+Sprue, Tropical
+Steatorrhea
+Stomach
+Taste Buds
+Tongue 
+Tracheoesophageal 
+Tuberculosis
+Typhlitis
+villi
+villus
+Vipoma
+Volvulus
+von Ebner Glands
+Whipple Disease
+Zellweger Syndrome
+Zollinger-Ellison Syndrome 

@@ -1,0 +1,94 @@
+Endocardium
+myocardium
+Pericardium
+right atrium
+left atrium
+Left Ventricular/Ventricle
+Right Ventricular/Ventricl
+Superior Vena Cava
+Inferior Vena Cava
+Pulmonary arteries
+Pulmonary veins
+Cardiac cycle
+Diastole
+Systolic/systole
+Cardiac output
+Stroke volume
+Cardiac Depolarisation
+Atrical Depolarisation
+Ventricular Depolarisation
+Refractory Period
+Bradycardia
+Dysrhythmia
+Arrhythmia
+Bruit
+AV block
+First degree AV block
+Second Degree Block
+Complete/Third Degree Block
+PVC
+Heart beat
+Pacemaker
+PEA
+Aberrant Conduction
+Bundle Branch Block
+Chest Discomfort
+Auscultation
+palpation
+Antidysrhythmic
+Defibrillation
+Synchronized Cardioversion
+Angina Pectoris
+Myocardial Infarction
+Heart failure
+Pulmonary Embolism
+Congestive Heart Failure
+Cardiac Tamponade
+Cardiogenic Shock
+Cardiac Arrest
+AneurysmAcute
+Arterial Occlusion
+Angina
+Aorta
+Aortic valve
+Aortic Stenosis
+Arteries
+Balloon valvuloplasty
+Bi-leafletCalcification
+Cardiopulmonary bypass
+Bypass surgery
+Congestive heart failure
+Coronary artery disease
+Echocardiography
+ECG/EchoCardioGram
+Endocarditis
+Femoral artery
+Mitral valve
+Tricuspid valve
+Transesophageal Echocardiogram (TEE)
+Tri-leafletVeins
+Arteriosclerosis
+Atrium
+Atrial septal defect 
+tachycardia
+Cardiomyopathy
+Rheumatic heart disease
+Ablation
+Acyanotic
+Bacterial endocarditis
+CardiologistCardiology
+Dextrocardia
+Ductus arteriosus
+Endocarditis
+Endocardium
+Epicardium
+Fibrillation 
+Foramen ovale
+Glenn shunt
+Jugular veins
+Myocarditis
+Open heart surgery
+Premature atrial contraction (PAC)
+Premature ventricular contraction (PVC) 
+Ross procedure 
+Sinus node

@@ -1,0 +1,163 @@
+Transcatheter Aortic Valve Implantation by Retroperitoneal Access without
+General Anaesthesia
+Andersen Claus1*, Baudier Francois2
+ and Nissen Henrik3
+1Department of Cardiothoracic Anaesthesiology & Intensive Care, Odense University Hospital, Denmark
+2Department of Vascular Surgery, Odense University Hospital, Denmark
+3Odense University Hospital, Department of Cardiology, Denmark
+*Corresponding author: Claus Andersen, Department of Cardiothoracic Anaesthesiology and Intensive Care, Odense University Hospital, Denmark; Tel: 4565412590;
+E-Mail: claus.andersen@rsyd.dk
+Rec date: September 11, 2014, Acc date: November 10, 2014, Pub date: November 20, 2014
+Copyright: © 2014 Claus A, et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted
+use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Abstract
+A patient is described having severe aortic stenosis and severe pulmonary disease contraindicating general
+anaesthesia for standard surgical aortic valve replacement as well as Transcatheter Aortic Valve Implantation (TAVI)
+using apical or direct aortic access. Dimensions of femoral and subclavian arteries were prohibitive for vascular
+access for TAVI. Therefore, the patient was treated by TAVI under full consciousness in spinal anaesthesia using a
+conduit to the common iliac artery. Thus, this case describes an alternative access route and anaesthesiological
+handling in otherwise untreatable TAVI candidates.
+Keywords: TAVI; Spinal anaesthesia; Retroperitoneal access
+Introduction
+Since 2002 Transcatheter Aortic Valve Implantation (TAVI) has
+been used in patients, where frailty or concomitant diseases result in
+too high surgical risk for open heart surgery. With the currently
+available TAVI devices most patients can be treated from a technical
+standpoint using femoral, subclavian, apical or direct aortic access or
+rarely, carotid or iliac access [1-3]. In our first more than 200 cases,
+prohibitive access problems had not been an issue for denial of a TAVI
+procedure, but such a case was then encountered, and a solution with
+TAVI under full consciousness via a retroperitoneal access was finally
+used [4]. We found it relevant to present the case, since a treating a
+fully conscious patient using this access and anaestsiological handling
+has not previously been described.
+Case Report
+A 57 years old female developed heart failure due to severe aortic
+stenosis while undergoing intensive care admittance for severe
+pulmonary problems. She had been known with severe chronic
+obstructive lung disease, albeit with remarkable good physical function
+despite advanced disease. Furthermore, she attended with regular
+intervals a local hospital for previously estimated non severe aortic
+stenosis.
+The patient was admitted to the Intensive Care Unit (ICU) of her
+local hospital with a severe case of Pneumococcus pneumonia, but 18
+days later she was transferred to the regional university hospital due to
+recurrent pleural effusions. A total of 79 days under intensive care was
+needed due to several pleural drainages, tracheotomy and difficult
+weaning from respiratory therapy. Prior to discharge the patient was
+discussed at an interdisciplinary heart valve conference, due to the
+stenotic aortic valve, and its impact on the present situation. Her left
+ventricular ejection fraction (LVEF) had dropped from normal value
+>60%, at the last outpatient control 10 months prior to admittance, to
+25% during the ICU stay. She had a bicuspid aortic valve with severe
+calcifications, grade 2+
+ insufficiency and an estimated valve area of 0.5
+cm2
+. Despite the low LVEF the patient could produce a gradient of
+72/42 mmHg (peak/mean). Pulmonary pressures were estimated to 55
+mmHg.
+Surgery was the preferred option, so it was decided to re-evaluate
+her 3 weeks after discharge from the ICU. Spirometry then showed
+forced vital capacity of 41% and forced expiratory volume of 21% of
+reference values, and still minor relapses of pneumonia. Full treatment
+for congestive heart failure could not be offered due to hypotension.
+Surgery was found too risky at this stage, and it was decided to
+perform valvuloplasty of the stenotic valve in local infiltration
+anaesthesia as a bridge to possible later surgery. Transesophageal
+echocardiography and cardiac 64 slice computerised tomography scan
+showed normal coronaries, aortic annulus of 25 mm by area
+evaluation. Femoral and subclavian vessels were straight without
+obstructions, but with diameters of only 4 x 4 mm. A balloon
+valvuloplasty was then performed in local anaesthesia using a 22 mm
+balloon. At follow-up 4 weeks later LVEF had risen to 35%-40%, but
+clinically she was still in New York Heart Association grade 3-4 heart
+failure. Pulmonary function was unchanged, and hence the risk of
+pulmonary complications too high for direct aortic or apical TAVI.
+Sheathless femoral access was considered, but found prohibited by the
+>50% oversizing of femoral arteries needed to accommodate an 18F
+delivery system. Proximal right common iliac artery was just 6 mm,
+and an iliac access under full consciousness was offered to the patient
+with informed consent that termination of the access procedure would
+be done, if combined spinal anaesthesia and intravenous opioids could
+not control the pain.
+Hence, a spinal catheter was placed in L1-L2, initially using 8 mg
+Bupivacain. Later 5 mg more added and infusion of Remifentanil 0.07
+µg/kg/min started for pain relief while stretching the peritoneum.
+Activated Coagulation Time was kept just above 250 sec using
+unfractionated heparin.
+Clinical & Experimental
+Cardiology Claus, et al., J Clin Exp Cardiolog 2014, 5:11
+http://dx.doi.org/10.4172/2155-9880.1000348
+Case Report Open Access
+J Clin Exp Cardiolog
+ISSN:2155-9880 JCEC, an open access journal
+Volume 5 • Issue 11 • 1000348
+Retroperitoneal exposure of the right common iliac artery and an
+end-to-side anastomosis with 8 mm clamped Dacron®
+ (Vascutek Ltd,
+Glasgow, UK) prosthesis was done.Except for advancing the delivery
+sheath through the unclamped conduit, a standard 29 mm Medtronic
+Corevalve™
+ TAVI procedure was then performed with initial redo
+valvuloplasty with a 25 mm balloon. The implant was complicated by a
+deep dive to the left ventricular outflow tract, probably due to the
+bicuspid valve. After a prolonged traction process with the valve still
+attached to the delivery catheter, an acceptable position was obtained
+with grade 1 paravalvular aortic insufficiency and the valve released.
+However, the valve dived again under release, resulting in a grade 3
+insufficiencies. A second valve was implanted 4 mm higher, reducing
+the paravalvular leak to grade 0-1. The delivery system and wire were
+removed and the access Dacron tube shortened to approximate 10 mm
+from the anastomosis site and closed with sutures. Standard closure of
+abdominal wall, subcutis and skin was done. The patient was
+hemodynamically stable during the procedure and no vasopressors
+needed.
+The patient was observed for 4 hours in postoperative intensive care
+unit before transfer to an ordinary ward. Two units of erythrocytes
+were given the second post procedural day, but otherwise the
+postoperative period was uneventful, and she was discharged on day
+10. Echocardiography before discharge showed discrete paravalvular
+aortic insufficiency, a peak gradient of 24 mmHg and mean gradient of
+14 mmHg. The aortic valve area was estimated to 1.6 cm2
+. Three
+months after the procedure the patient was in NYHA 2b, lung
+function unchanged, but she managed her household herself and was
+without diuretic therapy. LVEF had normalised, and no paravalvular
+leak remained. Pulmonary pressure was slightly elevated at estimated
+40 mmHg, judged due to her pulmonary insufficiency.
+Discussion
+Retroperitoneal access for TAVI has been described under general
+anaesthesia, but not in a wake patient, and this case illustrates, that in
+the rare patient with prohibitive access due to anatomic or
+physiological constraints, this is an option [5]. Tough the patient
+tolerance of the retroperitoneal manipulations in a conscious state
+even with spinal anaesthesia was uncertain, we saw this as her only
+option, and in this case turned out to be possible. If this experience can
+be extrapolated to other patients with similar problems remains to be
+seen, and as further downsizing of TAVI access vessel requirements
+seems to be ongoing, the described option will be relevant for a
+minority of patients in the future. For these patients, however, it is
+important that, instead of having to resort to the dismal prognosis of
+untreated significant aortic stenosis or repeated valvuloplasties, an
+option of retroperitoneal access is available that can be performed in a
+conscious state without intubation and artificial ventilation and
+highlights the need for multidisciplinary approach to the TAVI
+patient.
+References
+1. O´Sullivan CJ, Stortecky S, Buellesfeld L, Wenaweser P, Windecker S
+(2014) Preinterventional screening of the TAVI patient: how to choose
+the sutable patient and the best procedure. Clin Res Cardiol 103: 259-274.
+2. Magalhaes MA, Souza JM, Grube E (2013) Transcatheter aortic valve
+implantation through a diseased left common carotid artery: Combined
+approach with endarterectomy and left carotid-subclavian bypass.
+Catheter Cardiovasc Interv 81: 618-622.
+3. Kainuma S, Kuratani T, Shimamura K, Takeda Y, Yamamoto K et al.
+(2011) Transcatheter aortic valve implantation: first trans-iliac
+experience in Japan. Gen Thorac Cardiovasc Surg 59: 273-276.
+4. Ruggeri L, Gerli C, Franco A, Barile L, Magnano di SDan Lio MS et al.
+(2012) Anesthetic management for percutaneous aortic valve
+implantation: an overview of worldwide experiences. HSR Proc Intensive
+Care Cardiovasc Anesth 4: 40-46.
+5. Leucker TM, Williams ML, Flaherty MP (2014) Transcatheter aortic
+valve replacement: a novel abdominal transaortic approach. Catheter
+Cardiovasc Interv 83:670-675.

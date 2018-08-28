@@ -1,0 +1,39 @@
+Biopsy
+Haematology
+Histopathology
+Differentiation
+Tumour Markers
+Benign
+Malignant
+Metastases
+Staging
+Prognosis
+Remission
+Relapse
+Refractory
+Restaging
+Follow-up
+Curative treatment
+External radiotherapy
+Internal radiotherapy
+Fractions
+Hyperfractionated radiotherapy
+Radiotherapy field
+Total Body Irradiation
+Pre-operative chemotherapy
+Radiotherapy
+Complete resection
+Prosthesis
+Endoprosthesis
+Chemotherapy
+Cytotoxic
+Central line
+Drug resistance
+Bone Marrow Transplantation (BMT)
+Allogeneic BMT
+Autologous BMT
+Peripheral Blood Stem Cell Rescue (PBSC)
+Gene therapy / Immunotherapy
+Immuno-suppressive
+WHO toxicity gradings
+Late effects

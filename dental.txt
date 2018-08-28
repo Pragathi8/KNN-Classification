@@ -1,0 +1,53 @@
+abutment: tooth
+Posterior 
+Anterior 
+Mesial 
+Distal 
+Buccal 
+Lingual 
+Facial 
+Palatal 
+Occlusal 
+Incisal 
+Permanent Dentition
+Primary Dentition 
+Mandibular Teeth
+Mandible
+Maxillary Teeth
+Maxillae 
+Human Dentition 
+Amalgam
+Bleaching
+Caries
+Carcinogenic
+Cariogenic
+Composites
+Composites
+Edentulous
+Endodontist
+General dentist	
+Geriatric dentist
+Gingivitis
+Malocclusion
+Microair abrasion
+Mouthguards
+Occlusal surface
+Oral and maxillofacial surgeon
+Oral pathologist
+Orthodontics
+Orthodontist
+Pediatric dentist
+Periodontal disease
+Periodontist
+Plaque
+Porcelain veneers
+Prophylaxis
+Prosthodontist
+Public health dentist
+Radiosurgery
+Resin
+Restorative dentistry
+Periodontal 
+Restoration 
+Resorb 
+Osseointegration 

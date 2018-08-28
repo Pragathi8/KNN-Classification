@@ -1,0 +1,38 @@
+surgery:
+compartment syndrome
+umblical hernia
+incisional hernia
+inguinal hernia
+hydrocele
+myxedema'
+goitre
+pleomorhic adenoma
+gastritis
+bucaal carcinoma
+phimosis
+varicose veins
+dvt
+lipoma
+sebaceous cyst
+duodenal perforation
+intestinal obstruction
+laprotomy
+varicose ulcer
+diabetic foot
+dry gangrene 
+wet gangrene
+sepsis
+amputation
+circumcision
+carcinoma breast
+fibroadenoma
+pyocele
+cholecystitis
+cirrohsis
+blunt injury
+hematocele
+varicocele
+achalasia cardia
+antibiomaflial chest
+paralytic ileus
+plummer vilson syndrome
